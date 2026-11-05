@@ -24,8 +24,8 @@ the library **libft** contains the following:\
 ### how to install
 you can download the repository into your device by cloning the repo with Git\
 ```shell
-	git clone 
-	cd libft
+	git clone https://github.com/Yassine-MAATI/Libft.git
+	cd Libft
 ```
 ## how to compile
 the project comes with a Makefile to allow you to easily compile the library by running
