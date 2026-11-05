@@ -33,6 +33,7 @@ the project comes with a Makefile to allow you to easily compile the library by 
 - `clean` to remove the object files, 
 - `fclean` to remove both the object files and the library,
 - `re` to remove both object files and library then recreate them.
+- `make test` to run basic project tests from the `main.c` file.
 # Resources
 this project wouldn't have been possible without the help of:\
 [Beej's Guide to C Programming](https://beej.us/guide/bgc/)\
